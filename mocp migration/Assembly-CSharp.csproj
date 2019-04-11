@@ -61,7 +61,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\EndingPoint.cs" />
+    <Compile Include="Assets\Scripts\FirstLocation.cs" />
+    <Compile Include="Assets\Scripts\LoadOnClick.cs" />
+    <Compile Include="Assets\Scripts\SecondLocation.cs" />
     <Compile Include="Assets\Scripts\StartingPoint.cs" />
+    <Compile Include="Assets\Scripts\ThirdLocation.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/HP/Documents/GitHub/mocp-migration-game/mocp migration/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
